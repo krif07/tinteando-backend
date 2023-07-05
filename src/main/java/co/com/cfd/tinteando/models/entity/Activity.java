@@ -19,7 +19,7 @@ public class Activity implements Serializable {
     @Column(name="create_at")
     @Temporal(TemporalType.DATE)
     private Date createAt;
-    private Location location;
+    private String location;
     private static final long serialVersionUID = 1L;
 
     public Long getId() {
@@ -54,11 +54,11 @@ public class Activity implements Serializable {
         this.createAt = createAt;
     }
 
-    public Location getLocation() {
+    public String getLocation() {
         return location;
     }
 
-    public void setLocation(Location location) {
+    public void setLocation(String location) {
         this.location = location;
     }
 }

@@ -1,9 +1,7 @@
 package co.com.cfd.tinteando.models.dao;
 
 import co.com.cfd.tinteando.models.entity.Activity;
+import org.springframework.data.repository.CrudRepository;
 
-import java.util.List;
-
-public interface IActivityDao {
-    public List<Activity> findAll();
+public interface IActivityDao extends CrudRepository<Activity, Long> {
 }
