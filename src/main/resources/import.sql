@@ -1,0 +1,15 @@
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 1', 'Descripción de la actividad 1', '2023-07-05', 'Ubicación 1');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 2', 'Descripción de la actividad 2', '2023-07-06', 'Ubicación 2');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 3', 'Descripción de la actividad 3', '2023-07-07', 'Ubicación 3');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 4', 'Descripción de la actividad 4', '2023-07-08', 'Ubicación 4');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 5', 'Descripción de la actividad 5', '2023-07-09', 'Ubicación 5');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 6', 'Descripción de la actividad 6', '2023-07-10', 'Ubicación 6');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 7', 'Descripción de la actividad 7', '2023-08-05', 'Ubicación 7');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 8', 'Descripción de la actividad 8', '2023-09-06', 'Ubicación 8');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 9', 'Descripción de la actividad 9', '2023-10-07', 'Ubicación 9');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 10', 'Descripción de la actividad 10', '2023-11-05', 'Ubicación 1');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 11', 'Descripción de la actividad 11', '2023-11-06', 'Ubicación 2');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 12', 'Descripción de la actividad 12', '2023-11-07', 'Ubicación 3');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 13', 'Descripción de la actividad 13', '2023-11-08', 'Ubicación 1');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 14', 'Descripción de la actividad 14', '2023-12-06', 'Ubicación 2');
+INSERT INTO activities (name, description, create_at, location) VALUES ('Actividad 15', 'Descripción de la actividad 15', '2023-12-07', 'Ubicación 3');
